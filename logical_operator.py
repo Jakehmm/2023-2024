@@ -1,4 +1,4 @@
-# Get the input from the user``
+# Get the input from the user
 number = int(input("Type an integer: "))
 
 # Determine if the number is divisible by both 2 and 3
