@@ -1,5 +1,5 @@
 def main():
-    # Print a new line, just for aesthetic
+    # Print a new line for aesthetic
     print()
     # Solving 5 polynomial problems
     poly_1()
