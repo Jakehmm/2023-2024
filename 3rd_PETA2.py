@@ -50,5 +50,5 @@ Enter the number of your choice: ''').strip()
     else:
         print("Invalid option. Please try again.")
 
-    # Print a new line to separate the result and the options in next loop
+    # Print a new line to separate the result and the options of next loop
     print()
