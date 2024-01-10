@@ -7,12 +7,12 @@ import sys
 
 # Keeps on asking the user until he/she typed '4'
 while True:
-    option = input('''Options:
+    print('''Options:
 1. Arc Length
 2. Lens Equation
 3. Sum of Numbers
-4. Exit
-Enter the number of your choice: ''').strip()
+4. Exit''')
+    option = input("Enter the number of your choice: ").strip()
 
     # Compute for arc length in cm
     if option == '1':
