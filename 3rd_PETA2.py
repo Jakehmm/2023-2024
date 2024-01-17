@@ -5,7 +5,7 @@ import math
 import sys
 
 
-# Keeps on asking the user until he/she typed '4'
+# Keeps on asking the user until he/she typed '5'
 while True:
     print('''Options:
 1. Arc Length
