@@ -35,9 +35,9 @@ def perimeter():
 
 def area():
     area = lambda a, b, h : ((a+b) / 2) * h 
-    a = int(input("Enter first base: "))
-    b = int(input("Enter second base: "))
-    h = int(input("Enter height: "))
+    a = int(input("Enter first base (in cm): "))
+    b = int(input("Enter second base (in cm): "))
+    h = int(input("Enter height (in cm): "))
     print("Formula: Area = [(base 1 + base 2) / 2] * height")
     return area(a,b,h)
 
